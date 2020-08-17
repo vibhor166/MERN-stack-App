@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vibhor123:vibhor123@cluster0.fgdiz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
