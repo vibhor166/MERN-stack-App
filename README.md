@@ -2,7 +2,7 @@
 Full stack MERN APP
 
 
-Live version : https://fierce-fjord-57478.herokuapp.com/
+
 
 Description
 
